@@ -14,4 +14,5 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'nokogiri'
   s.add_dependency 'rspec'
+  s.add_dependency 'rake'
 end
