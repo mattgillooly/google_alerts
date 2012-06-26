@@ -1,6 +1,6 @@
 module GoogleAlerts
 
-  def parse_email(html)
+  def self.parse_email(html)
     GoogleAlerts::Email.new(html).results
   end
 
