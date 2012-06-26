@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'google_alerts'
-  s.version     = '0.0.0'
+  s.version     = '0.0.1'
   s.date        = '2012-06-24'
   s.summary     = "Parse Google Alerts emails"
   s.description = "A parser for Google Alerts emails"
